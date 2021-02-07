@@ -1,0 +1,17 @@
+I made a database with name 'mobile'.
+
+It is having an table name:'product_details'(It contains all the details of the product).
+//I created the tables and the columns manually.
+
+Now we make 4 columns in the table:
+
+1.Id int(5).
+2.Pname varchar(20).
+3.Amt int(10).
+4.Qty int(20).
+5.Img_src var(350)
+
+
+
+
+

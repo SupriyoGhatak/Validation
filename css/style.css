@@ -1,0 +1,28 @@
+.tab{
+    align-content: center;
+    
+}
+
+.row{
+    margin-top: 155px;
+    align-content: center;
+}
+.whole{
+      padding-bottom: 210px;
+    margin-bottom: 0px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/bg.jpg) no-repeat center center;
+    background-size: cover;
+   
+}
+.back{
+    background: url(./img/background12.jpg) no-repeat center center;
+     background-size: cover;
+     
+    
+}
+.rmvb{
+    list-style: none;
+    padding-left: 50px;
+}
